@@ -1,5 +1,5 @@
 {
-  "name": "zimui.com",
+  "name": "zimui.dev",
   "private": true,
   "scripts": {
     "build": "turbo build",
