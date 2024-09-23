@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/XfinityPros/zimui">
-    <img src="https://github.com/XfinityPros/zimui/main/media/logo-colored@2x.png?raw=true" alt="ZIMUI logo" width="300" />
+    <img src="https://github.com/XfinityPros/zimui/blob/main/media/logo-colored%402x.png" alt="ZIMUI logo" width="300" />
   </a>
 </p>
 
