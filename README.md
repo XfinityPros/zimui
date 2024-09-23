@@ -80,16 +80,7 @@ interested in contributing to the documentation, check out the
 Support this project with your organization. Your logo will show up here with a
 link to your website.
 
-<a href="https://www.xfinitypros.com"><img src="https://www.xfinitypros.com/logo-light.svg?avatarHeight=130" /></a>
-
-## Testimonials
-
-> People throw React component libraries and design systems at me regularly.
-> This might be the best one I've seen. The APIs are simple but composable and
-> the accessibility on the couple components I looked is complete.
->
-> Great work @thesegunadebayo, really inspiring work. –
-> [Ryan Florence](https://twitter.com/ryanflorence/status/1169260008069947392)
+<a href="https://www.xfinitypros.com"><img src="https://www.xfinitypros.com/logo-light.svg?avatarHeight=65" /></a>
 
 ## Testimonials
 
