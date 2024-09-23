@@ -62,3 +62,55 @@ $ pnpm add zimui
 
 # with Bun
 $ bun add zimui
+```
+
+## Contributing
+
+Feel like contributing? That's awesome! We have a
+[contributing guide](./CONTRIBUTING.md) to help guide you.
+
+find the docs at [docs.zimui.dev](https://docs.zimui.dev). If you're
+interested in contributing to the documentation, check out the
+[docsite contribution guide](https://github.com/XfinityPros/zimui/blob/main/CONTRIBUTING.md).
+
+## Support ZIM UI
+
+### Organizations
+
+Support this project with your organization. Your logo will show up here with a
+link to your website.
+
+<a href="https://www.xfinitypros.com"><img src="https://www.xfinitypros.com/logo-light.svg?avatarHeight=130" /></a>
+
+## Testimonials
+
+> People throw React component libraries and design systems at me regularly.
+> This might be the best one I've seen. The APIs are simple but composable and
+> the accessibility on the couple components I looked is complete.
+>
+> Great work @thesegunadebayo, really inspiring work. –
+> [Ryan Florence](https://twitter.com/ryanflorence/status/1169260008069947392)
+
+## Testimonials
+
+> "I've seen countless component libraries for different frameworks, but ZimUI stands out. 
+> The ability to switch between **HTML**, **React**, and **Vue** is seamless,
+> and the components are both easy to use and highly customizable.
+>  
+> Truly impressive work, and I'm excited to see where ZimUI goes next!" – [Watida Mafuta](https://www.watida.com)
+
+## Contributors
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tinomazorodze"><img src="https://avatars.githubusercontent.com/u/83790561?v=4?s=64" width="64px;" alt="Tino Mazorodze"/><br /><sub><b>Tino Mazorodze</b></sub></a><br /><a href="https://github.com/XfinityPros/zimui/commits?author=tinomazorodze" title="Code">💻</a> <a href="#maintenance-tinomazorodze" title="Maintenance">🚧</a> <a href="https://github.com/XfinityPros/zimui/commits?author=tinomazorodze" title="Documentation">📖</a> <a href="#example-tinomazorodze" title="Examples">💡</a> <a href="#design-tinomazorodze" title="Design">🎨</a></td>
+    </tr>
+  </tbody>
+</table>
