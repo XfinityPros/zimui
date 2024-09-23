@@ -1,6 +1,16 @@
 {
-  "name": "zimui.dev",
-  "private": true,
+  "name": "zimui",
+  "private": false,
+  "description": "A multi-framework component library",
+  "keywords": ["zimui", "component library", "ui library", "html components", "react components", "vue components"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XfinityPros/zimui"
+  },
+   "author": "Xfinity Pros <admin@xfinitypros.com>",
+   "version": "1.0.0",
+   "license": "MIT",
+
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
